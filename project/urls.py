@@ -1,5 +1,4 @@
 """project URL Configuration
-
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.1/topics/http/urls/
 Examples:
@@ -19,7 +18,7 @@ from rest_framework_simplejwt import views as jwt_views
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("api/v1/cookiestand/", include("cookiestand.urls")),
+    path("api/v1/cookie_stands/", include("cookie_stands.urls")),
     path("api-auth/", include("rest_framework.urls")),
     path(
         "api/token/",
