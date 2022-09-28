@@ -1,6 +1,8 @@
-## LAB - Class 34
-## Project: Back End Development
+## LAB - Class 41
+## Project: Front End Development
 ## Links:
+https://vercel.com/guddbye/cookie-stand-admin
+
 https://github.com/guddbye/cookie-stand-api
 
 ## Setup
